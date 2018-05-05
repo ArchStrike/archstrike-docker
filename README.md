@@ -69,4 +69,4 @@ archstrike/xsssniper 0.9-3 (archstrike archstrike-webapps)
 # Special Thanks
 A special thanks to haykuro [Steve Birstok] (https://hub.docker.com/r/haykuro/ && https://github.com/haykuro/) for this great idea and implementation!
 
-Thanks to pritunl for his awesome Arch docker work (https://hub.docker.com/r/pritunl/archlinux/)
+Thanks to pritunl for their awesome Arch docker work (https://hub.docker.com/r/pritunl/archlinux/)
