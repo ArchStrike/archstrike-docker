@@ -1,14 +1,14 @@
 # ArchStrike for Docker
 
 ## Using ArchStrike in Docker
-`docker run -it archstrike/archstrike /bin/bash`
+`docker run -it archstrike/archstrike`
 
 ## More info
 For more info about ArchStrike like finding and installing packages, reporting bugs, and contributing please check out https://archstrike.org/wiki
 
 ## Example Usage
 ```
-$ docker run -it archstrike/archstrike /bin/bash
+$ docker run -it archstrike/archstrike
 Unable to find image 'archstrike/archstrike:latest' locally
 latest: Pulling from archstrike/archstrike
 dafee9058535: Pull complete 
