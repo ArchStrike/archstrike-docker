@@ -3,6 +3,13 @@
 ## Using ArchStrike in Docker
 `docker run -it archstrike/archstrike`
 
+## Privileged mode
+Due to some packages/tools requireing access to lower level hardware and features, it may be required to run the container in `privileged` mode.
+
+`docker run --privileged -it archstrike/archstrike`
+
+More information on `privileged` mode can be found here: https://docs.docker.com/engine/reference/run/#runtime-privilege-and-linux-capabilities
+
 ## More info
 For more info about ArchStrike like finding and installing packages, reporting bugs, and contributing please check out https://archstrike.org/wiki
 
